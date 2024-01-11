@@ -1,0 +1,3 @@
+werkzeug
+jinja2
+redis
